@@ -1,5 +1,4 @@
 # facialDetectionModel-OCV
-First legitimate ai/py project. Realized my cs skills are not as futile as presumed.
 
 Utilizes accuracy percentages to classify faces with precise deviation from image used in processing (stored under faces file).
 - multiple faces can be detected in singular frame
